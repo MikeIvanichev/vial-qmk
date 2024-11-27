@@ -60,20 +60,6 @@
             "GP19"
         ]
     },
-    "encoder": {
-        "rotary": [
-            {
-                "pin_a": "GP28",
-                "pin_b": "GP10",
-                "resolution": 4
-            },
-            {
-                "pin_a": "GP27",
-                "pin_b": "GP20",
-                "resolution": 4
-            }
-        ]
-    },
     "layouts": {
         "LAYOUT": {
             "layout": [
